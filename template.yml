@@ -3,3 +3,4 @@ disable:
 
 variables:
   license: BSD
+  license_file: LICENSE.txt
